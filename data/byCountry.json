@@ -1,0 +1,50 @@
+[
+  {
+    "countryRaw": "Latvija",
+    "country": "LV",
+    "totalT": 7645.548,
+    "filmT": 6680.98902250349,
+    "share": 0.484274219037903,
+    "partners": 6
+  },
+  {
+    "countryRaw": "Lietuva",
+    "country": "LT",
+    "totalT": 3236.488,
+    "filmT": 2336.75052881219,
+    "share": 0.205001354857173,
+    "partners": 10
+  },
+  {
+    "countryRaw": "Polija",
+    "country": "PL",
+    "totalT": 2897.083,
+    "filmT": 2535.26809449838,
+    "share": 0.183503210929156,
+    "partners": 12
+  },
+  {
+    "countryRaw": "Ukraina",
+    "country": "UA",
+    "totalT": 1699.639,
+    "filmT": 287.565174562317,
+    "share": 0.107656292180935,
+    "partners": 3
+  },
+  {
+    "countryRaw": "Igaunija",
+    "country": "EE",
+    "totalT": 285.008,
+    "filmT": 17.12,
+    "share": 0.0180526008887205,
+    "partners": 3
+  },
+  {
+    "countryRaw": "Somija",
+    "country": "FI",
+    "totalT": 23.876,
+    "filmT": 0,
+    "share": 0.00151232210611312,
+    "partners": 1
+  }
+]

@@ -1,0 +1,983 @@
+[
+  {
+    "polymer": "polimēru daļa kompozīta iepakojumā",
+    "intermediary": "",
+    "recycler": "BALTICFLOC SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 5.818,
+    "recyclerNormalized": "BALTICFLOC SIA",
+    "film": false
+  },
+  {
+    "polymer": "polimēru daļa dzērienu kompozīta iepakojumā",
+    "intermediary": "",
+    "recycler": "Stora Enso Narew Sp. zoo",
+    "countryRaw": "Polija",
+    "quantityT": 56.87,
+    "recyclerNormalized": "Stora Enso Narew Sp. zoo",
+    "film": false
+  },
+  {
+    "polymer": "polimēru daļa kompozīta iepakojumā",
+    "intermediary": "",
+    "recycler": "Stora Enso Oyj Varkaus Mill",
+    "countryRaw": "Somija",
+    "quantityT": 23.876,
+    "recyclerNormalized": "Stora Enso Oyj Varkaus Mill",
+    "film": false
+  },
+  {
+    "polymer": "plēve",
+    "intermediary": "",
+    "recycler": "Ekobaze UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 162.23,
+    "recyclerNormalized": "Ekobaze UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "SOMLITA UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 361.38,
+    "recyclerNormalized": "SOMLITA UAB",
+    "film": true
+  },
+  {
+    "polymer": "plēve",
+    "intermediary": "",
+    "recycler": "Nordic Plast SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 64.156,
+    "recyclerNormalized": "Nordic Plast SIA",
+    "film": true
+  },
+  {
+    "polymer": "plēve",
+    "intermediary": "",
+    "recycler": "CleanR Industry SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 4.21,
+    "recyclerNormalized": "CleanR Industry SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 40.22,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "SOMLITA UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 146.72,
+    "recyclerNormalized": "SOMLITA UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "Nordic Plast SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 857.491,
+    "recyclerNormalized": "Nordic Plast SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "Ti-Ci, SIA un Grind Fibers OU Latvijas filiāle",
+    "recycler": "ECSO, UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 17.86,
+    "recyclerNormalized": "ECSO, UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "Ti-Ci, SIA un Grind Fibers OU Latvijas filiāle",
+    "recycler": "Sabiedrība ar ierobežotu atbildību \"Grindplast\"",
+    "countryRaw": "Latvija",
+    "quantityT": 3.9,
+    "recyclerNormalized": "GrindPlast, SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 164.04,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "ECSO, UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 29.36,
+    "recyclerNormalized": "ECSO, UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "ORKOS ESTONIA OU",
+    "countryRaw": "Igaunija",
+    "quantityT": 17.12,
+    "recyclerNormalized": "ORKOS ESTONIA OU",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "SOMLITA UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 89.86,
+    "recyclerNormalized": "SOMLITA UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "Sabiedrība ar ierobežotu atbildību \"CleanR Industry\"",
+    "countryRaw": "Latvija",
+    "quantityT": 16.08,
+    "recyclerNormalized": "CleanR Industry SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "Grigeo Recycling, SIA",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 144.847,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "HAVI Logistics, SIA, Grigeo Recycling SIA, GALANGAL SIA",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 59.076,
+    "recyclerNormalized": "Plasta AB",
+    "film": false
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 85.595,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "SOMLITA UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 3.2,
+    "recyclerNormalized": "SOMLITA UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 3.64,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 34.72,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "SOMLITA UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 16.58,
+    "recyclerNormalized": "SOMLITA UAB",
+    "film": true
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "CORVUS COMPANY SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 15.326,
+    "recyclerNormalized": "CORVUS COMPANY SIA",
+    "film": false
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "HAVI Logistics, SIA, Grigeo Recycling SIA, Grind Fibers OU Latvijas filiāle",
+    "recycler": "Sabiedrība ar ierobežotu atbildību \"Grindplast\"",
+    "countryRaw": "Latvija",
+    "quantityT": 27.373,
+    "recyclerNormalized": "GrindPlast, SIA",
+    "film": false
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Ekobaze UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 26.96,
+    "recyclerNormalized": "Ekobaze UAB",
+    "film": false
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 34.04,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "SOMLITA UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 17.77,
+    "recyclerNormalized": "SOMLITA UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Sabiedrība ar ierobežotu atbildību \"CleanR Industry\"",
+    "countryRaw": "Latvija",
+    "quantityT": 35.247,
+    "recyclerNormalized": "CleanR Industry SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "SOMLITA UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 1.91,
+    "recyclerNormalized": "SOMLITA UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 3.2,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Sabiedrība ar ierobežotu atbildību \"CleanR Industry\"",
+    "countryRaw": "Latvija",
+    "quantityT": 3.375,
+    "recyclerNormalized": "CleanR Industry SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "CORVUS COMPANY SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 34.061,
+    "recyclerNormalized": "CORVUS COMPANY SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 12.765,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "CORVUS COMPANY SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 4.244,
+    "recyclerNormalized": "CORVUS COMPANY SIA",
+    "film": true
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "Ekobaze UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 14.514,
+    "recyclerNormalized": "Ekobaze UAB",
+    "film": false
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "HAVI Logistics, SIA, Grigeo Recycling SIA, Grind Fibers OU Latvijas filiāle",
+    "recycler": "Sabiedrība ar ierobežotu atbildību \"Grindplast\"",
+    "countryRaw": "Latvija",
+    "quantityT": 13.06,
+    "recyclerNormalized": "GrindPlast, SIA",
+    "film": false
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "SOMLITA UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 48.04,
+    "recyclerNormalized": "SOMLITA UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "HAVI Logistics, SIA un Grigeo Recycling, SIA",
+    "recycler": "SOMLITA UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 7.14,
+    "recyclerNormalized": "SOMLITA UAB",
+    "film": true
+  },
+  {
+    "polymer": "Agroplēve",
+    "intermediary": "",
+    "recycler": "REGFOL Grzegorz Gadomski",
+    "countryRaw": "Polija",
+    "quantityT": 258.781012875893,
+    "recyclerNormalized": "REGFOL Grzegorz Gadomski",
+    "film": true
+  },
+  {
+    "polymer": "Agroplēve",
+    "intermediary": "",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 465.96,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "Agroplēve",
+    "intermediary": "",
+    "recycler": "FAST-FOL RECYCLING Gadomscy Sp. z o.o.",
+    "countryRaw": "Polija",
+    "quantityT": 326.358156001023,
+    "recyclerNormalized": "FAST-FOL RECYCLING Gadomscy Sp. z o.o.",
+    "film": true
+  },
+  {
+    "polymer": "Agroplēve",
+    "intermediary": "",
+    "recycler": "Hermes Recycling Sp.z.o.o.",
+    "countryRaw": "Polija",
+    "quantityT": 52.6124539374326,
+    "recyclerNormalized": "Hermes Recycling Sp.z.o.o.",
+    "film": true
+  },
+  {
+    "polymer": "Agroplēve",
+    "intermediary": "",
+    "recycler": "ECSO, UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 145.1,
+    "recyclerNormalized": "ECSO, UAB",
+    "film": true
+  },
+  {
+    "polymer": "Agroplēve",
+    "intermediary": "",
+    "recycler": "Nordic Plast SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 87.7606185524575,
+    "recyclerNormalized": "Nordic Plast SIA",
+    "film": true
+  },
+  {
+    "polymer": "Agroplēve",
+    "intermediary": "",
+    "recycler": "SP VERSLAS UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 40.6942988929889,
+    "recyclerNormalized": "SP VERSLAS UAB",
+    "film": true
+  },
+  {
+    "polymer": "Agroplēve",
+    "intermediary": "",
+    "recycler": "Rusoccy SP. z o.o",
+    "countryRaw": "Polija",
+    "quantityT": 20.8,
+    "recyclerNormalized": "Rusoccy SP. z o.o",
+    "film": true
+  },
+  {
+    "polymer": "Big Bag",
+    "intermediary": "",
+    "recycler": "Metal Samara LLC",
+    "countryRaw": "Ukraina",
+    "quantityT": 1181.71382543768,
+    "recyclerNormalized": "Metal Samara LLC",
+    "film": false
+  },
+  {
+    "polymer": "Big Bag",
+    "intermediary": "",
+    "recycler": "Folenskay LLC",
+    "countryRaw": "Ukraina",
+    "quantityT": 230.36,
+    "recyclerNormalized": "Folenskay LLC",
+    "film": false
+  },
+  {
+    "polymer": "Big Bag",
+    "intermediary": "",
+    "recycler": "Nordic Plast SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 88.2225384471572,
+    "recyclerNormalized": "Nordic Plast SIA",
+    "film": false
+  },
+  {
+    "polymer": "Big Bag",
+    "intermediary": "",
+    "recycler": "Virginijus ir KO UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 19.24,
+    "recyclerNormalized": "Virginijus ir KO UAB",
+    "film": false
+  },
+  {
+    "polymer": "Big Bag",
+    "intermediary": "",
+    "recycler": "Oplast-Recykling Sp z o o",
+    "countryRaw": "Polija",
+    "quantityT": 39.3,
+    "recyclerNormalized": "Oplast-Recykling Sp z o o",
+    "film": false
+  },
+  {
+    "polymer": "Big Bag",
+    "intermediary": "",
+    "recycler": "CleanR Industry SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 28.1704532516434,
+    "recyclerNormalized": "CleanR Industry SIA",
+    "film": false
+  },
+  {
+    "polymer": "HDPE kannas",
+    "intermediary": "",
+    "recycler": "CleanR Industry SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 303.888320403344,
+    "recyclerNormalized": "CleanR Industry SIA",
+    "film": false
+  },
+  {
+    "polymer": "HDPE kannas",
+    "intermediary": "",
+    "recycler": "WeeRec OÜ",
+    "countryRaw": "Igaunija",
+    "quantityT": 68.3298074961754,
+    "recyclerNormalized": "WeeRec OÜ",
+    "film": false
+  },
+  {
+    "polymer": "HDPE kannas",
+    "intermediary": "",
+    "recycler": "ATUS GROUP Sp.z.o.o. Sp.k",
+    "countryRaw": "Polija",
+    "quantityT": 41.0400536033353,
+    "recyclerNormalized": "ATUS GROUP Sp.z.o.o. Sp.k",
+    "film": false
+  },
+  {
+    "polymer": "HDPE kannas",
+    "intermediary": "",
+    "recycler": "CORVUS COMPANY SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 5.15418452380952,
+    "recyclerNormalized": "CORVUS COMPANY SIA",
+    "film": false
+  },
+  {
+    "polymer": "HDPE kannas",
+    "intermediary": "Grind Fibers OU Latvijas filiāle",
+    "recycler": "GrindPlast, SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 0.849348484701122,
+    "recyclerNormalized": "GrindPlast, SIA",
+    "film": false
+  },
+  {
+    "polymer": "HDPE pudeles",
+    "intermediary": "",
+    "recycler": "CleanR Industry SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 26.1908838853788,
+    "recyclerNormalized": "CleanR Industry SIA",
+    "film": false
+  },
+  {
+    "polymer": "HDPE pudeles",
+    "intermediary": "",
+    "recycler": "ATUS GROUP Sp.z.o.o. Sp.k",
+    "countryRaw": "Polija",
+    "quantityT": 11.4599463966647,
+    "recyclerNormalized": "ATUS GROUP Sp.z.o.o. Sp.k",
+    "film": false
+  },
+  {
+    "polymer": "HDPE pudeles",
+    "intermediary": "",
+    "recycler": "Hermes Recycling Sp.z.o.o.",
+    "countryRaw": "Polija",
+    "quantityT": 1.55686213592233,
+    "recyclerNormalized": "Hermes Recycling Sp.z.o.o.",
+    "film": false
+  },
+  {
+    "polymer": "HDPE pudeles",
+    "intermediary": "",
+    "recycler": "WeeRec OÜ",
+    "countryRaw": "Igaunija",
+    "quantityT": 2.17519250382458,
+    "recyclerNormalized": "WeeRec OÜ",
+    "film": false
+  },
+  {
+    "polymer": "HDPE pudeles",
+    "intermediary": "",
+    "recycler": "CORVUS COMPANY SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 2.07951785714286,
+    "recyclerNormalized": "CORVUS COMPANY SIA",
+    "film": false
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "",
+    "recycler": "Nordic Plast SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 2867.23249953261,
+    "recyclerNormalized": "Nordic Plast SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 130.22,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "",
+    "recycler": "Prestige Polymer LLC",
+    "countryRaw": "Ukraina",
+    "quantityT": 14.1179212552834,
+    "recyclerNormalized": "Prestige Polymer LLC",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "",
+    "recycler": "Hermes Recycling Sp.z.o.o.",
+    "countryRaw": "Polija",
+    "quantityT": 2.2376405609493,
+    "recyclerNormalized": "Hermes Recycling Sp.z.o.o.",
+    "film": true
+  },
+  {
+    "polymer": "LDPE caurspīdīga plēve",
+    "intermediary": "",
+    "recycler": "SP VERSLAS UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 2.31570110701107,
+    "recyclerNormalized": "SP VERSLAS UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "FAST-FOL RECYCLING Gadomscy Sp. z o.o.",
+    "countryRaw": "Polija",
+    "quantityT": 1665.24593925624,
+    "recyclerNormalized": "FAST-FOL RECYCLING Gadomscy Sp. z o.o.",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "Kronos Polymer Sp. z o. o.",
+    "countryRaw": "Polija",
+    "quantityT": 95.17,
+    "recyclerNormalized": "Kronos Polymer Sp. z o. o.",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "Nordic Plast SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 68.1086319693039,
+    "recyclerNormalized": "Nordic Plast SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "REGFOL Grzegorz Gadomski",
+    "countryRaw": "Polija",
+    "quantityT": 23.7419871241067,
+    "recyclerNormalized": "REGFOL Grzegorz Gadomski",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 3.912,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "CORVUS COMPANY SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 0.631404761904762,
+    "recyclerNormalized": "CORVUS COMPANY SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "",
+    "recycler": "Nordic Plast SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 12.6008418121694,
+    "recyclerNormalized": "Nordic Plast SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE melnbalta plēve",
+    "intermediary": "Grind Fibers OU Latvijas filiāle",
+    "recycler": "GrindPlast, SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 15.0388137291136,
+    "recyclerNormalized": "GrindPlast, SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "Nordic Plast SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 2547.6338696863,
+    "recyclerNormalized": "Nordic Plast SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "Prestige Polymer LLC",
+    "countryRaw": "Ukraina",
+    "quantityT": 265.312078744717,
+    "recyclerNormalized": "Prestige Polymer LLC",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "FAST-FOL RECYCLING Gadomscy Sp. z o.o.",
+    "countryRaw": "Polija",
+    "quantityT": 69.7959047427381,
+    "recyclerNormalized": "FAST-FOL RECYCLING Gadomscy Sp. z o.o.",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "Eko Perdirbimas UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 79.4035288121892,
+    "recyclerNormalized": "Eko Perdirbimas UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "CleanR Industry SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 59.2183424596337,
+    "recyclerNormalized": "CleanR Industry SIA",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "ECSO, UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 22.96,
+    "recyclerNormalized": "ECSO, UAB",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "Metal Samara LLC",
+    "countryRaw": "Ukraina",
+    "quantityT": 8.13517456231653,
+    "recyclerNormalized": "Metal Samara LLC",
+    "film": true
+  },
+  {
+    "polymer": "LDPE krāsaina plēve",
+    "intermediary": "",
+    "recycler": "Plasta AB",
+    "countryRaw": "Lietuva",
+    "quantityT": 21.068,
+    "recyclerNormalized": "Plasta AB",
+    "film": true
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "",
+    "recycler": "CORVUS COMPANY SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 137.714869047619,
+    "recyclerNormalized": "CORVUS COMPANY SIA",
+    "film": false
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "",
+    "recycler": "Ekobaze UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 70.52,
+    "recyclerNormalized": "Ekobaze UAB",
+    "film": false
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "Grind Fibers OU Latvijas filiāle",
+    "recycler": "GrindPlast, SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 65.637413317707,
+    "recyclerNormalized": "GrindPlast, SIA",
+    "film": false
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "",
+    "recycler": "Oplast-Recykling Sp z o o",
+    "countryRaw": "Polija",
+    "quantityT": 15.12,
+    "recyclerNormalized": "Oplast-Recykling Sp z o o",
+    "film": false
+  },
+  {
+    "polymer": "PP augļu kastes",
+    "intermediary": "",
+    "recycler": "Eko Perdirbimas UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 15.5958912535367,
+    "recyclerNormalized": "Eko Perdirbimas UAB",
+    "film": false
+  },
+  {
+    "polymer": "PP plastmasa( jogurta trauciņi, utt)",
+    "intermediary": "",
+    "recycler": "Eko Perdirbimas UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 297.100579934274,
+    "recyclerNormalized": "Eko Perdirbimas UAB",
+    "film": false
+  },
+  {
+    "polymer": "PP plastmasa( jogurta trauciņi, utt)",
+    "intermediary": "",
+    "recycler": "AKPOL RECYKLING Sp. z o. o",
+    "countryRaw": "Polija",
+    "quantityT": 146.8,
+    "recyclerNormalized": "AKPOL RECYKLING Sp. z o. o",
+    "film": false
+  },
+  {
+    "polymer": "PP plastmasa( jogurta trauciņi, utt)",
+    "intermediary": "",
+    "recycler": "CORVUS COMPANY SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 48.8103333333333,
+    "recyclerNormalized": "CORVUS COMPANY SIA",
+    "film": false
+  },
+  {
+    "polymer": "PP plastmasa( jogurta trauciņi, utt)",
+    "intermediary": "",
+    "recycler": "POS PLASTIC Sp. z o. o",
+    "countryRaw": "Polija",
+    "quantityT": 21.2336315573584,
+    "recyclerNormalized": "POS PLASTIC Sp. z o. o",
+    "film": false
+  },
+  {
+    "polymer": "PP plastmasa( jogurta trauciņi, utt)",
+    "intermediary": "Grind Fibers OU Latvijas filiāle",
+    "recycler": "GrindPlast, SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 17.7187160808419,
+    "recyclerNormalized": "GrindPlast, SIA",
+    "film": false
+  },
+  {
+    "polymer": "PP plastmasa( jogurta trauciņi, utt)",
+    "intermediary": "",
+    "recycler": "PUE-EKO Sp. o. o",
+    "countryRaw": "Polija",
+    "quantityT": 10.36,
+    "recyclerNormalized": "PUE-EKO Sp. o. o",
+    "film": false
+  },
+  {
+    "polymer": "PP plastmasa( jogurta trauciņi, utt)",
+    "intermediary": "",
+    "recycler": "Hermes Recycling Sp.z.o.o.",
+    "countryRaw": "Polija",
+    "quantityT": 0.600424250269687,
+    "recyclerNormalized": "Hermes Recycling Sp.z.o.o.",
+    "film": false
+  },
+  {
+    "polymer": "PP lentas",
+    "intermediary": "Grind Fibers OU Latvijas filiāle",
+    "recycler": "GrindPlast, SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 49.400008510183,
+    "recyclerNormalized": "GrindPlast, SIA",
+    "film": false
+  },
+  {
+    "polymer": "PP lentas",
+    "intermediary": "",
+    "recycler": "Hermes Recycling Sp.z.o.o.",
+    "countryRaw": "Polija",
+    "quantityT": 7.65261911542611,
+    "recyclerNormalized": "Hermes Recycling Sp.z.o.o.",
+    "film": false
+  },
+  {
+    "polymer": "PP spaiņi",
+    "intermediary": "Grind Fibers OU Latvijas filiāle",
+    "recycler": "GrindPlast, SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 95.6306998774534,
+    "recyclerNormalized": "GrindPlast, SIA",
+    "film": false
+  },
+  {
+    "polymer": "PP spaiņi",
+    "intermediary": "",
+    "recycler": "POS PLASTIC Sp. z o. o",
+    "countryRaw": "Polija",
+    "quantityT": 9.82136844264163,
+    "recyclerNormalized": "POS PLASTIC Sp. z o. o",
+    "film": false
+  },
+  {
+    "polymer": "PP spaiņi",
+    "intermediary": "",
+    "recycler": "CORVUS COMPANY SIA",
+    "countryRaw": "Latvija",
+    "quantityT": 1.61969047619048,
+    "recyclerNormalized": "CORVUS COMPANY SIA",
+    "film": false
+  },
+  {
+    "polymer": "Putuplasts",
+    "intermediary": "",
+    "recycler": "R&R Ideas UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 75.221,
+    "recyclerNormalized": "R&R Ideas UAB",
+    "film": false
+  },
+  {
+    "polymer": "Putuplasts",
+    "intermediary": "Jaatmete sorteerimiskeskus OU",
+    "recycler": "JSK Ida OU",
+    "countryRaw": "Igaunija",
+    "quantityT": 122.395836517752,
+    "recyclerNormalized": "JSK Ida OU",
+    "film": false
+  },
+  {
+    "polymer": "Putuplasts",
+    "intermediary": "Jaatmete sorteerimiskeskus OU",
+    "recycler": "JSK Ida OU",
+    "countryRaw": "Igaunija",
+    "quantityT": 74.9871634822483,
+    "recyclerNormalized": "JSK Ida OU",
+    "film": false
+  },
+  {
+    "polymer": "PET pudeles",
+    "intermediary": "",
+    "recycler": "AS \"ITERUM\"",
+    "countryRaw": "Latvija",
+    "quantityT": 31.895,
+    "recyclerNormalized": "AS \"ITERUM\"",
+    "film": false
+  },
+  {
+    "polymer": "PET pudeles",
+    "intermediary": "GREENTECH SA",
+    "recycler": "GreenTech Baltic, UAB",
+    "countryRaw": "Lietuva",
+    "quantityT": 12.46,
+    "recyclerNormalized": "GreenTech Baltic, UAB",
+    "film": false
+  },
+  {
+    "polymer": "plēve",
+    "intermediary": "",
+    "recycler": "J.M. TRADE Jerzy Mróz",
+    "countryRaw": "Polija",
+    "quantityT": 20.525,
+    "recyclerNormalized": "J.M. TRADE Jerzy Mróz",
+    "film": true
+  },
+  {
+    "polymer": "PET pudeles",
+    "intermediary": "",
+    "recycler": "POLIVEKTRIS PET",
+    "countryRaw": "Lietuva",
+    "quantityT": 309.05,
+    "recyclerNormalized": "POLIVEKTRIS PET",
+    "film": false
+  }
+]

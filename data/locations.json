@@ -1,0 +1,21 @@
+{
+  "_readme": "Map coordinates. 'known' entries are matched by partner name (case-insensitive substring). Everything else is placed at the country centroid and flagged 'location unverified'.",
+  "origin": { "name": "Riga (LZP)", "lat": 56.9496, "lng": 24.1052 },
+  "known": [
+    { "match": "nordic plast", "label": "Olaine / Jelgava, LV", "lat": 56.785, "lng": 23.938 },
+    { "match": "fast-fol", "label": "Mława, PL", "lat": 53.112, "lng": 20.384 },
+    { "match": "plasta", "label": "Vilnius, LT", "lat": 54.6872, "lng": 25.2797 },
+    { "match": "somlita", "label": "Riešė, near Vilnius, LT", "lat": 54.774, "lng": 25.215 },
+    { "match": "ecso", "label": "Vilnius, LT", "lat": 54.705, "lng": 25.335 }
+  ],
+  "centroids": {
+    "LV": { "lat": 56.88, "lng": 24.6 },
+    "LT": { "lat": 55.3, "lng": 23.9 },
+    "EE": { "lat": 58.6, "lng": 25.0 },
+    "PL": { "lat": 52.1, "lng": 19.4 },
+    "FI": { "lat": 62.3, "lng": 26.0 },
+    "UA": { "lat": 49.0, "lng": 31.4 }
+  },
+  "defaultDistanceFactorIds": { "LV": "D1", "LT": "D2", "EE": "D3", "PL": "D4", "FI": "D5", "UA": "D6" },
+  "defaultModes": { "FI": { "mode": "road+ferry", "seaKm": 80 } }
+}
