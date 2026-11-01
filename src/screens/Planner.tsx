@@ -1000,7 +1000,7 @@ export function customerRange(customer: { filmT: number; recycledShare: number; 
   return { low: run(all.low), base: run(all.base), high: run(all.high) };
 }
 
-function Slider({ label, value, onChange, format, info }: { label: string; value: number; onChange: (v: number) => void; format: (v: number) => string; info?: ReactNode }) {
+export function Slider({ label, value, onChange, format, info }: { label: string; value: number; onChange: (v: number) => void; format: (v: number) => string; info?: ReactNode }) {
   return (
     <label className="block">
       <div className="mb-2 flex items-center justify-between text-[12px]">
@@ -1009,63 +1009,6 @@ function Slider({ label, value, onChange, format, info }: { label: string; value
       </div>
       <input type="range" min={0} max={1} step={0.01} value={value} onChange={(e) => onChange(+e.target.value)} className="lzp-range w-full" />
     </label>
-  );
-}
-
-/** Sidebar section "With LZP vs without": a customer's packaging with LZP recycling vs today. */
-export function CustomerView() {
-  const customer = useApp((s) => s.customer);
-  const setCustomer = useApp((s) => s.setCustomer);
-  const customerName = useApp((s) => s.customerName);
-  const setCustomerName = useApp((s) => s.setCustomerName);
-  const a = useApp((s) => s.a);
-  const partners = useApp((s) => s.partners);
-  const { all, scenario } = useParams();
-  const meta = resolveOption(a, partners);
-  const c = useMemo(() => customerRange(customer, meta, all), [customer, meta, all]);
-  const r = c[scenario];
-  return (
-    <div className="grid grid-cols-12 gap-5">
-      <Card className="col-span-12 p-7 lg:col-span-4">
-        <CardTitle sub="Defaults use EU averages. Recycling follows the route in Option A.">Customer</CardTitle>
-        <div className="space-y-6">
-          <label className="block rounded-2xl bg-paper px-3.5 py-2">
-            <span className="text-[11px] font-semibold text-muted">Customer name</span>
-            <input value={customerName} onChange={(e) => setCustomerName(e.target.value)} placeholder="Not set" className="w-full bg-transparent text-[15px] font-semibold outline-none" />
-          </label>
-          <label className="block rounded-2xl bg-paper px-3.5 py-2">
-            <span className="text-[11px] font-semibold text-muted">LDPE film packaging, t per year</span>
-            <input type="number" min={0} value={customer.filmT} onChange={(e) => setCustomer({ filmT: Math.max(0, +e.target.value) })} className="w-full bg-transparent text-[22px] font-bold tabular-nums outline-none" />
-          </label>
-          <Slider label="Recycled today (without LZP)" value={customer.recycledShare} onChange={(v) => setCustomer({ recycledShare: v })} format={(v) => pct(v)} info={<InfoTip title="Default: EU average" note="41% of EU plastic packaging is recycled; the rest goes 52.8% to incineration and 47.2% to landfill." factorIds={['E1', 'E2', 'E3']} />} />
-          <Slider label="Collected and recycled by LZP" value={customer.lzpShare} onChange={(v) => setCustomer({ lzpShare: v })} format={(v) => pct(v)} />
-          <div className="rounded-2xl bg-paper p-3.5 text-[12px]">
-            <div className="font-semibold">Recycling route</div>
-            <div className="text-muted">{meta.label} · {MODE_NAME[meta.input.mode]} · {num0(meta.input.km)} km</div>
-          </div>
-        </div>
-      </Card>
-      <Card dark pins className="col-span-12 flex flex-col justify-between p-8 lg:col-span-8">
-        <div>
-          <p className="font-mono text-[11px] uppercase tracking-[0.16em] text-white/50">Emissions reduction with LZP{customerName ? ` · ${customerName}` : ''}</p>
-          <div className="mt-4 flex items-end gap-3">
-            <AnimatedNumber value={r.reduction / 1000} format={(n) => num1(n)} className="text-[96px] font-bold leading-[0.9] tracking-[-0.06em] text-lime" />
-            <div className="mb-2 flex items-center gap-1">
-              <span className="font-mono text-[13px] text-white/60">t CO2e / yr</span>
-              <InfoTip dark title="Reduction" formula="Reduction = NET without LZP − NET with LZP" calc={`= ${t1(r.without.net)} − (${t1(r.with.net)}) = ${t1(r.reduction)} t CO2e`} factorIds={['E1', 'E2', 'E3', 'E4', 'E5', 'V1', 'V3']} />
-            </div>
-          </div>
-          <p className="mt-6 max-w-2xl text-[22px] font-semibold leading-snug tracking-[-0.02em] text-white">{reductionSentence(c.low.reduction, c.high.reduction)}</p>
-        </div>
-        <div className="mt-8 max-w-xl">
-          <RangeBar dark low={c.low.reduction / 1000} base={c.base.reduction / 1000} high={c.high.reduction / 1000} format={(n) => num1(n)} />
-        </div>
-      </Card>
-      <Card className="col-span-12 p-6">
-        <CardTitle sub="Caused and avoided are shown separately, then netted" right={<EstimatedChip label="Landfill ≈ 0 (estimated)" />}>Without LZP vs with LZP</CardTitle>
-        <EolTable r={r} />
-      </Card>
-    </div>
   );
 }
 

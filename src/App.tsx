@@ -3,12 +3,13 @@ import { useEffect } from 'react';
 import { MethodDrawer } from './components/MethodDrawer';
 import { Sidebar, Toast, TopBar } from './components/Shell';
 import { EASE } from './lib/theme';
-import { CustomerView, Planner } from './screens/Planner';
+import { Planner } from './screens/Planner';
+import { WithLzp } from './screens/WithLzp';
 import { Record } from './screens/Record';
 import { Report } from './screens/Report';
 import { useApp } from './store/useApp';
 
-const SCREENS = { planner: Planner, compare: CustomerView, record: Record, report: Report };
+const SCREENS = { planner: Planner, compare: WithLzp, record: Record, report: Report };
 
 export default function App() {
   const screen = useApp((s) => s.screen);
